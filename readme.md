@@ -36,7 +36,7 @@ Para configurar o banco de dados, é só executar os seguintes comandos:
 
 ### Executando o backend
 
-Para rodar o backend,é só executar os seguintes comandos:
+Para rodar o backend, é só executar os seguintes comandos:
 
 - ```cd backend```
 - ```npm run dev``` ou ```yarn dev```
